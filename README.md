@@ -5,10 +5,14 @@ A try for a [Flutter](https://flutter.io/) project.
 Trying to apply Clean Architecture as I could.
 It was a small experiment using [OpenWeatherMap](https://openweathermap.org/) API
 
+## NOTE FOR WHO DON'T KNOW FLUTTER:
+
+ - In Flutter, your first place you write in is the `lib` folder. So the ONLY thing of interest in this repository, is `lib/main.dart`. **ONLY**.
+
 
 ## What it demonstrate:
 
- - The functional nature of Flutter, you _*Create A NEW WIDGET EVERY STATE CHANGE*_ , but it couldn't be called fully functional, because the change of the state itself is in place.
+ - The functional nature of Flutter, you _**Create A NEW WIDGET EVERY STATE CHANGE**_ , but it couldn't be called fully functional, because the change of the state itself is in place.
  - A simple, one file, Dart applicable, application of Clean Architecture
  - Using checking instead of `try/catch`
  
