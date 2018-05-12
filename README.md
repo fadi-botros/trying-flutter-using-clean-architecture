@@ -8,6 +8,7 @@ It was a small experiment using [OpenWeatherMap](https://openweathermap.org/) AP
 ## NOTE FOR WHO DON'T KNOW FLUTTER:
 
  - In Flutter, your first place you write in is the `lib` folder. So the ONLY thing of interest in this repository, is `lib/main.dart`. **ONLY**.
+ - Also, there is **no explicit interface keyword**, so you use `abstract class` as an interface (I don't know how, but it worked!, Dart's concepts is completely different from Java/Objective-C/Swift).
 
 
 ## What it demonstrate:
